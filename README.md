@@ -101,7 +101,7 @@ Each macro function has a **Client** dropdown to target:
 ## Important Notes
 
 - This tool sends inputs to the **game window directly** (own-sided, not game-sided)
-- Macro usage in DD2 is **allowed** but at your own risk per community guidelines
+- Macro usage with auto-G in DD2 is **allowed** All another functions you can use at your own risk 
 - Run as **administrator** for hotkeys to work globally
 - Antivirus may flag the `.exe` as suspicious — this is a **false positive** (PyInstaller behavior)
 
