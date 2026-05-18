@@ -1,4 +1,5 @@
-# DD2 Macro
+# DD2 Macro<img width="625" height="1361" alt="obrázek_2026-05-18_153855251" src="https://github.com/user-attachments/assets/3b2ba6ff-c5a1-4420-865c-e6fd0ecd346d" />
+
 
 A feature-rich macro tool for **Dungeon Defenders 2** supporting dual-client setups (Steam + Sandboxie).
 
